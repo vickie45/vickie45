@@ -98,9 +98,9 @@ Experimenting with ideas for minimal and opinionated backend frameworks.
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vickie45&show_icons=true&theme=tokyonight&hide_border=true"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=vickie45&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vickie45&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vickie45&layout=compact&theme=tokyonight&hide_border=true"/> -->
 
 </p>
 
