@@ -1,68 +1,96 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Vignesh%20Nadar&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Vignesh%20Nadar&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
-<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+.NET+Developer;Angular+%7C+.NET+Core+Engineer;Builder+of+Developer+Tools;Exploring+AI+%26+Local+LLMs;Always+Learning+New+Things&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+.NET+Engineer;Angular+%7C+Backend+Architecture+Enthusiast;Builder+of+Developer+Tools;Exploring+AI+%26+Local+LLMs;Always+Learning+Always+Building&center=true&width=550&height=45">
 </p>
 
 ---
 
-# 👋 Hello, I'm Vignesh
+# 👨‍💻 About Me
 
-💻 **Full Stack Software Engineer**  
-🚀 Passionate about building **scalable backend systems and modern web applications**  
-🧠 Interested in **framework design, developer tools, and AI-assisted development**
+I’m Vignesh, a Full-Stack Software Engineer focused on building reliable systems and developer-friendly tools.
 
-I enjoy building systems that are:
+I enjoy working across the entire stack — from frontend architecture to backend systems and infrastructure.
 
-✔ Simple  
-✔ Scalable  
-✔ Developer Friendly  
+My approach to engineering is simple:
+
+> Build software that is minimal, powerful, and scalable.
+
+I like understanding systems deeply — not just how to use them, but how they work internally.
 
 ---
 
 # ⚙️ Tech Stack
 
-### 👨‍💻 Languages
-
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-
----
-
-### 🌐 Frontend
-
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+## Languages
+C#
+TypeScript
+Python
+SQL
 
 ---
 
-### ⚡ Backend
-
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity%20Framework-68217A?style=for-the-badge)
-
----
-
-### 🗄 Databases
-
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-D82C20?style=for-the-badge&logo=redis&logoColor=white)
+## Frontend
+Angular
+RxJS
+HTML5
+CSS3
 
 ---
 
-### ☁ DevOps
+## Backend
+.NET
+ASP.NET
+Web API
+Entity Framework
 
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+---
+
+## Databases
+SQL Server
+Redis
+
+---
+
+## DevOps & Tools
+Azure DevOps
+Git
+Docker
+
+---
+
+# 🧠 Engineering Interests
+
+I enjoy exploring ideas around:
+
+• Backend architecture  
+• Distributed systems  
+• Developer tooling  
+• Minimal backend frameworks  
+• AI-assisted development  
+• Local LLM systems  
+• Performance optimization  
+
+I like building systems that help developers build faster and smarter.
+
+---
+
+# 🚀 Projects & Experiments
+
+### Full-Stack Systems
+Applications built using Angular + .NET Core, focusing on scalable architecture patterns.
+
+### Developer Tools
+Tools that help developers write less code and build more powerful systems.
+
+### AI Experiments
+Exploring local LLMs, AI assistants, and AI-augmented development workflows.
+
+### Framework Design
+Experimenting with ideas for minimal and opinionated backend frameworks.
 
 ---
 
@@ -78,7 +106,7 @@ I enjoy building systems that are:
 
 ---
 
-# 🔥 GitHub Streak
+# 🔥 Contribution Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=vickie45&theme=tokyonight&hide_border=true"/>
@@ -86,7 +114,7 @@ I enjoy building systems that are:
 
 ---
 
-# 📈 Contribution Graph
+# 📈 Activity Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vickie45&theme=tokyo-night&hide_border=true"/>
@@ -94,37 +122,23 @@ I enjoy building systems that are:
 
 ---
 
-# 🧠 Interests
+# 🎯 Current Focus
 
-⚡ Backend architecture  
-⚡ Developer tools  
-⚡ Local LLM applications  
-⚡ AI coding assistants  
-⚡ Framework design  
+Currently exploring and building projects around:
 
----
-
-# 🚀 Current Focus
-
-Building projects using:
-
-- **Angular + .NET Core**
-- **Microservices architecture**
-- **AI developer tools**
-- **Local LLM experimentation**
+• Angular + .NET Core full-stack architecture  
+• Microservices and distributed systems  
+• AI powered developer tools  
+• Local LLM based assistants  
 
 ---
 
-# 📫 Connect With Me
+# 📫 Connect
 
 <p align="center">
 
 <a href="https://github.com/vickie45">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/vignesh-nadar-0a355a159">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
@@ -132,5 +146,5 @@ Building projects using:
 ---
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=120&section=footer"/>
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
+</
